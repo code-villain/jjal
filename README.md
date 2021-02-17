@@ -13,3 +13,6 @@
 
 ##### `푸루-대박머시써`
 <img src="https://raw.githubusercontent.com/code-villain/jjal/main/img/puru-deabak-awesome.gif" width="200">
+
+##### `푸루-네`
+<img src="https://raw.githubusercontent.com/code-villain/jjal/main/img/puru-ne.gif" width="200">
